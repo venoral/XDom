@@ -1,2 +1,2 @@
 # XDom
-DOM 原生API的东东 
+DOM原生CharacterData类型的猜想实现
